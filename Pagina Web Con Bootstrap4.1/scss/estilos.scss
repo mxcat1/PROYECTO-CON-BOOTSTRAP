@@ -1,3 +1,39 @@
-body{
-  background: red;
+html{
+  font-size: 15px;
+}
+.bienvenido{
+  background: url("../images/fondo-bienvenidos.jpg");
+  background-size: cover;
+  height: 100vh;
+}
+.encabezado{
+  background: rgba(0,0,0,0.28);
+}
+.navbar-light .navbar-brand {
+  color: rgba(255, 255, 255, 0.9);
+  font-size: 1.5rem;
+  text-transform: uppercase;
+}
+.navbar-light .navbar-brand:hover, .navbar-light .navbar-brand:focus {
+  color: rgba(255, 255, 255, 0.9);
+}
+.navbar-toggler{
+  font-size: 1rem;
+  padding: 0.3rem 0.5rem;
+  background-color: #fff;
+
+}
+.navbar-light .navbar-nav .nav-link {
+  color: rgba(255, 255, 255, 1);
+  font-weight: bold;
+  text-align: center;
+  margin: 0.2rem 0rem;
+}
+.navbar-light .navbar-nav .show > .nav-link, .navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .nav-link.active {
+  background: #F05f40;
+  color: #FFF;
+}
+.navbar-light .navbar-nav .nav-link:hover, .navbar-light .navbar-nav .nav-link:focus {
+  color: rgba(253, 253, 253, 0.7);
+  background: #f08965;
 }

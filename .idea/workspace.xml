@@ -2,35 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="693fed89-9cb2-4490-a0b8-27686ed5c030" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CursoBootstrap4/P1/flexbox3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CursoBootstrap4/P2/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CursoBootstrap4/P2/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CursoBootstrap4/P2/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CursoBootstrap4/P2/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CursoBootstrap4/P2/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CursoBootstrap4/P2/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CursoBootstrap4/P2/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CursoBootstrap4/P2/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CursoBootstrap4/P2/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CursoBootstrap4/P2/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CursoBootstrap4/P2/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CursoBootstrap4/P2/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CursoBootstrap4/P2/css/grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CursoBootstrap4/P2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CursoBootstrap4/P2/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CursoBootstrap4/P2/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CursoBootstrap4/P2/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CursoBootstrap4/P2/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CursoBootstrap4/P2/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CursoBootstrap4/P2/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CursoBootstrap4/P2/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CursoBootstrap4/P2/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CursoBootstrap4/P2/js/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CursoBootstrap4/P2/js/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CursoBootstrap4/P2/js/jquery.slim.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CursoBootstrap4/P2/js/jquery.slim.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CursoBootstrap4/P2/js/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoBootstrap4/P3/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoBootstrap4/P3/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoBootstrap4/P3/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoBootstrap4/P3/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoBootstrap4/P3/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoBootstrap4/P3/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoBootstrap4/P3/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoBootstrap4/P3/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoBootstrap4/P3/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoBootstrap4/P3/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoBootstrap4/P3/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoBootstrap4/P3/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoBootstrap4/P3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoBootstrap4/P3/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoBootstrap4/P3/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoBootstrap4/P3/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoBootstrap4/P3/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoBootstrap4/P3/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoBootstrap4/P3/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoBootstrap4/P3/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoBootstrap4/P3/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoBootstrap4/P3/js/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoBootstrap4/P3/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoBootstrap4/P3/js/jquery.slim.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoBootstrap4/P3/js/jquery.slim.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoBootstrap4/P3/js/popper.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CursoBootstrap4/P2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CursoBootstrap4/P2/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -42,21 +41,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CursoBootstrap4/P2/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
-              <caret line="50" column="39" selection-start-line="50" selection-start-column="39" selection-end-line="50" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CursoBootstrap4/P2/css/grid.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
-              <caret line="36" column="21" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
+            <state relative-caret-position="324">
+              <caret line="71" column="34" lean-forward="true" selection-start-line="71" selection-start-column="34" selection-end-line="71" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -66,8 +56,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -83,13 +73,14 @@
         <option value="$PROJECT_DIR$/CursoBootstrap4/P1/flexbox2.html" />
         <option value="$PROJECT_DIR$/CursoBootstrap4/P1/flexbox3.html" />
         <option value="$PROJECT_DIR$/CursoBootstrap4/P2/css/grid.css" />
+        <option value="$PROJECT_DIR$/CursoBootstrap4/P3/index.html" />
         <option value="$PROJECT_DIR$/CursoBootstrap4/P2/index.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="322" />
-    <option name="y" value="82" />
+    <option name="x" value="10" />
+    <option name="y" value="20" />
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
@@ -114,39 +105,27 @@
               <item name="PROYECTO-CON-BOOTSTRAP" type="b2602c69:ProjectViewProjectNode" />
               <item name="PROYECTO-CON-BOOTSTRAP" type="462c0819:PsiDirectoryNode" />
               <item name="CursoBootstrap4" type="462c0819:PsiDirectoryNode" />
-              <item name="P1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PROYECTO-CON-BOOTSTRAP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PROYECTO-CON-BOOTSTRAP" type="462c0819:PsiDirectoryNode" />
-              <item name="CursoBootstrap4" type="462c0819:PsiDirectoryNode" />
-              <item name="P1" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PROYECTO-CON-BOOTSTRAP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PROYECTO-CON-BOOTSTRAP" type="462c0819:PsiDirectoryNode" />
-              <item name="CursoBootstrap4" type="462c0819:PsiDirectoryNode" />
               <item name="P2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PROYECTO-CON-BOOTSTRAP" type="b2602c69:ProjectViewProjectNode" />
               <item name="PROYECTO-CON-BOOTSTRAP" type="462c0819:PsiDirectoryNode" />
               <item name="CursoBootstrap4" type="462c0819:PsiDirectoryNode" />
-              <item name="P2" type="462c0819:PsiDirectoryNode" />
+              <item name="P3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PROYECTO-CON-BOOTSTRAP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PROYECTO-CON-BOOTSTRAP" type="462c0819:PsiDirectoryNode" />
+              <item name="CursoBootstrap4" type="462c0819:PsiDirectoryNode" />
+              <item name="P3" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PROYECTO-CON-BOOTSTRAP" type="b2602c69:ProjectViewProjectNode" />
               <item name="PROYECTO-CON-BOOTSTRAP" type="462c0819:PsiDirectoryNode" />
               <item name="CursoBootstrap4" type="462c0819:PsiDirectoryNode" />
-              <item name="P2" type="462c0819:PsiDirectoryNode" />
+              <item name="P3" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PROYECTO-CON-BOOTSTRAP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PROYECTO-CON-BOOTSTRAP" type="462c0819:PsiDirectoryNode" />
-              <item name="Pagina Web Con Bootstrap4.1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -159,21 +138,22 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/CursoBootstrap4/P2/js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/CursoBootstrap4/P3" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\MAXCATMXCAT\Progracion_Cursos\PROYECTO-CON-BOOTSTRAP\CursoBootstrap4\P2\js" />
-      <recent name="F:\MAXCATMXCAT\Progracion_Cursos\PROYECTO-CON-BOOTSTRAP\CursoBootstrap4\P2" />
-      <recent name="F:\MAXCATMXCAT\Progracion_Cursos\PROYECTO-CON-BOOTSTRAP\CursoBootstrap4\js" />
-      <recent name="F:\MAXCATMXCAT\Progracion_Cursos\PROYECTO-CON-BOOTSTRAP\CursoBootstrap4" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\MAXCATMXCAT\Progracion_Cursos\PROYECTO-CON-BOOTSTRAP\CursoBootstrap4\P1\js" />
       <recent name="F:\MAXCATMXCAT\Progracion_Cursos\PROYECTO-CON-BOOTSTRAP\CursoBootstrap4\P1\css" />
       <recent name="F:\MAXCATMXCAT\Progracion_Cursos\PROYECTO-CON-BOOTSTRAP\CursoBootstrap4\P1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\CURSOS EN DESARROLLO\PROYECTO-CON-BOOTSTRAP\CursoBootstrap4\P3" />
+      <recent name="F:\MAXCATMXCAT\Progracion_Cursos\PROYECTO-CON-BOOTSTRAP\CursoBootstrap4\P2\js" />
+      <recent name="F:\MAXCATMXCAT\Progracion_Cursos\PROYECTO-CON-BOOTSTRAP\CursoBootstrap4\P2" />
+      <recent name="F:\MAXCATMXCAT\Progracion_Cursos\PROYECTO-CON-BOOTSTRAP\CursoBootstrap4\js" />
+      <recent name="F:\MAXCATMXCAT\Progracion_Cursos\PROYECTO-CON-BOOTSTRAP\CursoBootstrap4" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -209,16 +189,24 @@
       <option name="project" value="LOCAL" />
       <updated>1560572627762</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Nuevas clases y nuevo curso">
+      <created>1560796598716</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1560796598716</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15048000" />
+    <option name="totallyTimeSpent" value="17165000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.203125" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="DB Browser" order="2" weight="0.3296131" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -230,7 +218,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32871974" />
       <window_info anchor="bottom" id="DB Execution Console" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32871974" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
@@ -338,10 +326,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Recursos/Proyecto web/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CursoBootstrap4/P3/css/grid.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CursoBootstrap4/P3/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/CursoBootstrap4/P2/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="50" column="39" selection-start-line="50" selection-start-column="39" selection-end-line="50" selection-end-column="39" />
+        <state relative-caret-position="324">
+          <caret line="71" column="34" lean-forward="true" selection-start-line="71" selection-start-column="34" selection-end-line="71" selection-end-column="34" />
         </state>
       </provider>
     </entry>
